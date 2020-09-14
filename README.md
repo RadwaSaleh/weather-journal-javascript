@@ -5,6 +5,7 @@ A sample project to demonstrate the ability to create an asynchronous web app th
 
 
 The project consists of 2 main parts.
+
 1- Client Side
 * index.html: contains the HTML elements.
 * styles.css: element styling sheet.
