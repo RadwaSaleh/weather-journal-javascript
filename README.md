@@ -13,7 +13,7 @@ The project consists of 2 main parts.
 2- Server Side
 * server.js: contains the APIs path and definition.
 
-##Installation
+## Installation
 *node
 *packages (Express, Body-Parser, and Cors)
 *nodemon (so you don't have to stop and start server with every change)
