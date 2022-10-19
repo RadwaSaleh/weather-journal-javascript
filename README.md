@@ -22,6 +22,3 @@ The project consists of 2 main parts.
 ## Run
 nodemon server.js
 then open http://localhost:63342/ on the browser
-
-## Contributing
-For suggestions, please open an issue first to discuss what you would like to change or improve.
